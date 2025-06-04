@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Kuliah\\SEMESTER 6\\Pengembangan Gim dan Simulasi\\GameDev-GameScript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214B4C04-282B-DF66-FC70-91CEB716D2B8}|Assembly-CSharp.csproj|d:\\documents\\kuliah\\semester 6\\pengembangan gim dan simulasi\\gamedev-gamescript\\assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214B4C04-282B-DF66-FC70-91CEB716D2B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyboardInput.cs",
+              "DocumentMoniker": "D:\\Documents\\Kuliah\\SEMESTER 6\\Pengembangan Gim dan Simulasi\\GameDev-GameScript\\Assets\\Scripts\\KeyboardInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyboardInput.cs",
+              "ToolTip": "D:\\Documents\\Kuliah\\SEMESTER 6\\Pengembangan Gim dan Simulasi\\GameDev-GameScript\\Assets\\Scripts\\KeyboardInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyboardInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:02:00.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
