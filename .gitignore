@@ -1,0 +1,34 @@
+[Libraries to ignore]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+[Auto-generated files]
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+[Unity Package Cache]
+Packages/com.unity.*
+Library/PackageCache/
+Library/ShaderCache/
+Library/ScriptAssemblies/
+Library/PackageManager/
+
+[Other]
+.DS_Store
+.vscode/
+*.apk
+*.aab
+*.exe
+*.zip
+*.rar

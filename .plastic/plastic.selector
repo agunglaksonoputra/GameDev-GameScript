@@ -1,0 +1,4 @@
+repository "Game Script/Game Script@1375789458885@cloud"
+  path "/"
+    br "/main"
+    co "/main"
